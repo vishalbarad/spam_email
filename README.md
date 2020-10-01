@@ -2,7 +2,7 @@
 
 This project is a part of the Machine learning see live project by clicking this link https://spamemail.herokuapp.com/
 
-<img src="https://github.com/vishalbarad/IPL-score-predictor/blob/master/Screen%20Recording%202020-10-01%20at%2011.58.46%20AM.mov" width="80%" height="80%">
+<img src="Spam mail.gif" width="80%" height="80%">
 
 #### -- Project Status: [Completed]
 

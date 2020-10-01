@@ -2,7 +2,7 @@
 
 This project is a part of the Machine learning see live project by clicking this link https://spamemail.herokuapp.com/
 
-<img src="Spam mail.gif" width="80%" height="80%">
+<img src="Spam mail.gif" width="60%" height="60%">
 
 
 #### -- Project Status: [Completed]
